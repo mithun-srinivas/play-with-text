@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/play-with-text/static/css/main.95b64386.css",
+    "main.js": "/play-with-text/static/js/main.473cde42.js",
+    "index.html": "/play-with-text/index.html",
+    "main.95b64386.css.map": "/play-with-text/static/css/main.95b64386.css.map",
+    "main.473cde42.js.map": "/play-with-text/static/js/main.473cde42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b64386.css",
+    "static/js/main.473cde42.js"
+  ]
+}
